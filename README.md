@@ -1,0 +1,1 @@
+Este projeto utiliza a API da Open-Meteo para coletar e analisar dados climáticos dos últimos 20 dias. As informações são processadas com Python e exibidas em formato de tabela utilizando a biblioteca Pandas
